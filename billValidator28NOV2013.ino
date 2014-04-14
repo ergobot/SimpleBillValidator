@@ -1,6 +1,5 @@
 /*
 * Sean
- * globalw2865@gmail.com
  * 30JUL2012
  * Bill validator/Arduino (second draft)
  */
